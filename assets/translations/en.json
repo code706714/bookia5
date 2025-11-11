@@ -1,0 +1,11 @@
+{
+    "home": "Home",
+    "best_seller": "Best Seller",
+    "login_header": "Welcome back! Glad to see you, Again!",
+    "enter_email": "Enter your email",
+    "enter_password": "Enter your password",
+    "login": "Login",
+    "forget_password": "Forget Password",
+    "search": "Search",
+    "hello_msg": "Hello {}"
+}
